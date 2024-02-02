@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreme-bren&label=Profile%20views&color=0e75b6&style=flat" alt="supreme-bren" /> </p>
 
-- 🔭 I’m currently working on **Movie App | Cloning IMDB**
+- 🔭 I’m currently working on **MongoDB Fantasy Football Statistics App**
 
-- 🌱 I’m currently learning **D3.js, Node.js, MongoDB**
+- 🌱 I’m currently learning **Angular, Django, Flask**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Supreme-bren?tab=repositories](https://github.com/Supreme-bren?tab=repositories)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js**
 
 - 📫 How to reach me **brennanosunkwo14@gmail.com**
 
