@@ -1,17 +1,17 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Brennan Osunkwo</h1>
-<h3 align="center">A Data Quality Analyst, aspiring software developer.</h3>
+<h3 align="center">A Data Quality Analyst, aspiring Software Developer.</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" width="400" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supreme-bren&label=Profile%20views&color=0e75b6&style=flat" alt="supreme-bren" /> </p>
 
-- 🔭 I’m currently working on **MongoDB Fantasy Football Statistics App**
+- 🔭 I’m currently working on **Online Shop**
 
-- 🌱 I’m currently learning **Angular, Django, Flask**
+- 🌱 I’m currently learning **React, Django, Flask, Node JS, Express JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Supreme-bren?tab=repositories](https://github.com/Supreme-bren?tab=repositories)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, React.js**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Python**
 
 - 📫 How to reach me **brennanosunkwo14@gmail.com**
 
